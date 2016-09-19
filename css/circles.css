@@ -1,0 +1,24 @@
+canvas{
+	width: 100vw;
+	height: 100vh;
+	background: black;
+	z-index: 1;
+}
+
+body, html{
+	height: 100vh;
+	margin: 0;
+	display: flex;
+	align-items: center;
+	justify-content: center;
+}
+
+h1{
+	color: #fff;
+	z-index: 2;
+	position: absolute;
+	top: 40vh;
+	left: 30vw;
+	font-family: sans-serif;
+	text-align: center;
+}
