@@ -1,0 +1,3 @@
+# circles app
+App that creates sound and shapes using paper.js and howler.js
+Tap any key and have fun...
